@@ -3,6 +3,7 @@ import os
 from langchain.prompts.prompt import PromptTemplate
 from langchain_openai import AzureOpenAI
 from langchain_core.output_parsers import StrOutputParser
+
 animal = """
 elephant
 """
