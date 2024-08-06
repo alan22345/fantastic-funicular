@@ -1,1 +1,3 @@
 share/virtualenvs/langchain-e8CQL3Wo
+
+pipenv shell
